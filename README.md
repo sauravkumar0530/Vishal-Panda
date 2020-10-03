@@ -1,1 +1,1 @@
-# Vishal-Panda
+Java application for greeting card generation.
